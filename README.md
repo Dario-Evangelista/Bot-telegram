@@ -4,3 +4,6 @@
     A base é simple praticamente são IFs, get_message(data, 'comando', 'message'), usando metodo get e post, o código está em desenvolmento ainda, serão criado dois bots, um para fazer uma loja no telegram, com calculo de frete, e pagamento pelo API do mercado Pago, e o segundo é intregar o chatGp nele
             
     Caso tenha alguma duvida mande e-mail darioaraujo44@gmail.com, a cada semana posto atualização no Github, espero que gostem e que seja util. 
+
+
+    Atualização, calculos, cobraça pelo mercado pago e pix, correção sendo feita, uso de funcoes correta.
