@@ -10,8 +10,8 @@ def delete_updates(data, x):
     requests.get(URL['url'] + 'getUpdates', params={'offset': data['update_id'] + x})
 
 valor = 0
-access_token = "TEST-5996788941634309-090922-8b2c6528e962f604e7b8cf33213ccb45-219918384"
-token_conf = "895632123456789-aaaab"
+access_token = "chave do mercado pago"
+token_conf = "token do mercado pago"
 
 def criar_preferencia(x):
     url = 'https://api.mercadopago.com/checkout/preferences'
