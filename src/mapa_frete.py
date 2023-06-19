@@ -9,10 +9,10 @@ import Selecionar_Ham
 from Lista_de_lanche import opcoes, pedido
 
 cep=""
-cep_loja = "08584450"
-numero_loja = "196"
+cep_loja = "endereço da loja"
+numero_loja = ""
 numero_cliente = ""
-key = "h27fqBQttYe9Jf7xHpptfTTyn78RpbWj"
+key = "chave do mapquestapi"
 valor = 2
 dados = []
 
